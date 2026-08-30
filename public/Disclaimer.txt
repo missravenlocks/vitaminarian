@@ -1,0 +1,7 @@
+DISCLAIMER
+
+Vitaminarian is a personal nutrition tracking tool intended for informational purposes only. It is not designed to provide professional dietary, medical, or nutritional advice. Always consult a qualified healthcare provider or registered dietitian before making significant changes to your diet.
+
+The nutritional data displayed in this application is derived from user-provided and third-party sources and may not be accurate, complete, or up to date. Nutrient values can vary based on food preparation, brand, growing conditions, and other factors. Do not rely on this application as a sole source of nutritional information for medical decisions.
+
+By using Vitaminarian, you acknowledge that the developers and contributors of this application accept no liability for any health outcomes, dietary decisions, or other consequences resulting from use of this tool.

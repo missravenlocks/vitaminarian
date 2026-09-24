@@ -1,0 +1,27 @@
+export const DEFAULT_FOODS_CSV = `Food Name,Serving Size (g),Calories (kcal),Fat (g),Saturated Fat (g),Trans Fat (g),Carbohydrates (g),Dietary Fiber (g),Sugars (g),Added Sugars (g),Protein (g),Cholesterol (mg),Sodium (mg),Potassium (mg),Calcium (mg),Iron (mg),Vitamin A (μg),Vitamin C (mg),Vitamin D (μg),Vitamin E (mg),Vitamin K (μg),Vitamin B6 (mg),Vitamin B12 (μg),Folate (μg),Magnesium (mg),Zinc (mg)
+Sprouted Rolled Oats,52,190,3.5,0.5,0,34,5,1,0,7,0,0,150,20,2,0,0,0,0.2,0,0.1,0,16,56,1.5
+Skim Milk,247,83,0.2,0.1,0,12.2,0,12.5,0,8.3,5,103,381,299,0.1,149,0,2.9,0,0.2,0.1,1.2,12,27,1
+Flaxseed Meal,13,70,5.5,0.5,0,3.8,3.6,0.2,0,2.4,0,4,105,33,0.7,0,0.1,0,0.3,0.1,0.1,0,11,51,0.6
+Apple,182,95,0.3,0.1,0,25,4.4,19,0,0.5,0,2,195,11,0.2,5,8.4,0,0.3,4,0.1,0,5,9,0.1
+Spinach,100,23,0.4,0.1,0,3.6,2.2,0.4,0,2.9,0,79,558,99,2.7,469,28.1,0,2,483,0.2,0,194,79,0.5
+Banana,118,105,0.4,0.1,0,27,3.1,14.4,0,1.3,0,1,422,6,0.3,4,10.3,0,0.1,0.6,0.4,0,24,32,0.2
+Chicken Breast,100,165,3.6,1,0,0,0,0,0,31,85,74,256,15,1,13,0,0.1,0.3,0.3,0.6,0.3,4,29,1
+Brown Rice,100,123,1,0.2,0,25.6,1.6,0.2,0,2.7,0,4,79,10,0.4,0,0,0,0.1,0,0.1,0,8,39,0.8
+Egg,50,72,4.8,1.6,0,0.4,0,0.2,0,6.3,186,71,69,28,0.9,80,0,1,0.5,0.2,0.1,0.5,24,6,0.6
+Almonds,28,164,14.2,1.1,0,6.1,3.5,1.2,0,6,0,1,208,76,1,0,0,0,7.3,0,0.1,0,14,77,0.9
+Broccoli,91,31,0.3,0.1,0,6,2.4,1.5,0,2.6,0,30,288,43,0.7,31,81.2,0,0.7,92.5,0.2,0,57,19,0.4
+Avocado,150,240,22,3.2,0,12.8,10,1,0,3,0,11,728,18,0.8,11,15,0,3.1,31.5,0.4,0,122,44,1
+Greek Yogurt,170,100,0.7,0.2,0,6.1,0,5.5,0,17.3,10,61,240,187,0.1,2,0,0,0,0.3,0.1,1.3,12,19,1`;
+
+export const DEFAULT_DAILY_VALUES_CSV = `Calories (kcal),Fat (g),Saturated Fat (g),Trans Fat (g),Carbohydrates (g),Dietary Fiber (g),Sugars (g),Added Sugars (g),Protein (g),Cholesterol (mg),Sodium (mg),Potassium (mg),Calcium (mg),Iron (mg),Vitamin A (μg),Vitamin C (mg),Vitamin D (μg),Vitamin E (mg),Vitamin K (μg),Vitamin B6 (mg),Vitamin B12 (μg),Folate (μg),Magnesium (mg),Zinc (mg)
+2000,78,20,2,275,28,50,25,50,300,2300,4700,1300,18,900,90,20,15,120,1.7,2.4,400,420,11`;
+
+export const DEFAULT_MEALS_CSV = `Meal Name,Component,Quantity,Unit`;
+
+export const DEFAULT_FOOD_LOG_CSV = `Date`;
+
+export const SAMPLE_MEALS_EXAMPLE = `Meal Name,Component,Quantity,Unit
+Oatmeal,Sprouted Rolled Oats,52,g
+Oatmeal,Skim Milk,247,g
+Flax Oatmeal,Oatmeal,1.25,servings
+Flax Oatmeal,Flaxseed Meal,6.5,g`;

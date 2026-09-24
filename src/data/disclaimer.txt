@@ -1,0 +1,12 @@
+MEDICAL & DIETARY DISCLAIMER
+
+Vitaminarian is designed solely for informational, educational, and personal tracking purposes. 
+
+1. Not Professional Dietary or Medical Advice:
+The information, calculations, daily values, nutrient analyses, and meal breakdowns provided by Vitaminarian do not constitute medical, nutritional, or professional dietary advice, diagnosis, or treatment. Always seek the advice of a qualified physician, registered dietitian, or other certified healthcare professional with any questions you may have regarding a medical condition, dietary restrictions, nutritional deficiencies, or specific nutritional needs.
+
+2. Accuracy & Completeness of Data:
+Nutritional data, serving sizes, and daily values can vary considerably based on agricultural factors, food preparation, ingredient sourcing, and brand differences. While we strive to provide a robust and customizable platform, the accuracy, completeness, or reliability of nutritional values in any built-in or user-uploaded files cannot be guaranteed. You assume full responsibility for verifying all data, quantities, and calculations before making health or dietary decisions.
+
+3. Assumption of Risk:
+Reliance on any information provided by Vitaminarian, its files, algorithms, or community-shared data is strictly at your own risk. The developers and affiliates of Vitaminarian disclaim all liability for any adverse effects or consequences resulting from the use or application of any information contained herein.

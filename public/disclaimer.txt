@@ -1,0 +1,14 @@
+IMPORTANT DISCLAIMER & NOTICE
+
+Vitaminarian is an educational and personal data tracking tool designed to assist users in tracking their dietary intake and nutrient content based on user-supplied or sample nutritional information.
+
+1. NOT MEDICAL OR DIETARY ADVICE:
+The information, calculations, estimations, breakdown trees, and daily value comparisons provided by this application are for informational and educational purposes only. This application does not provide medical, nutritional, diagnostic, or clinical dietary advice. Always consult with a qualified physician, registered dietitian, or certified healthcare professional before making any significant changes to your diet, nutritional regimen, or lifestyle, especially if you have pre-existing medical conditions, food allergies, or specific dietary requirements.
+
+2. ACCURACY & RELIABILITY OF DATA:
+Nutrient values, serving sizes, daily values, and meal compositions may vary significantly depending on food preparation methods, agricultural origins, brand variations, database limitations, and user inputs. The application and its developers make no warranties, express or implied, regarding the accuracy, completeness, reliability, or timeliness of any data provided in the sample files or calculated through user entries.
+
+3. USER RESPONSIBILITY:
+The user assumes full responsibility for all data entered, uploaded, modified, or downloaded through this application, and for any health decisions or dietary practices undertaken based on such data. In no event shall the creators or distributors of Vitaminarian be liable for any adverse health outcomes, damages, or claims arising from the use of this software.
+
+By clicking "I Understand & Accept" or continuing to use Vitaminarian, you acknowledge that you have read, understood, and agreed to this disclaimer.

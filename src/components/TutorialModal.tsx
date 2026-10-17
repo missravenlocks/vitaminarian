@@ -41,7 +41,7 @@ export const TutorialModal: React.FC<TutorialModalProps> = ({ isOpen, onClose })
               The sample <strong>Foods</strong>, <strong>Meals</strong>, and <strong>Daily Values</strong> files
               included with this application contain limited, illustrative, and likely irrelevant data for your unique lifestyle
               or nutritional targets. You are <strong>highly encouraged to customize these files</strong> using the{' '}
-              <strong>Upload and Download Module</strong> to adapt the application to your unique dietary requirements, favorite
+              <strong>Upload Data and Download Data buttons</strong> to adapt the application to your unique dietary requirements, favorite
               recipes, and specific micronutrient goals.
             </div>
           </div>
